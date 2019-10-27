@@ -1,0 +1,6 @@
+{
+    "StorageAccount": "",
+    "CosmosDB":{
+        "ConnectionStringAgent": ""
+    }
+}
